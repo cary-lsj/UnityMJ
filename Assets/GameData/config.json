@@ -1,0 +1,285 @@
+﻿{
+	"equipType":4,
+	"equipName":
+		{
+			"0":"Web",
+			"1":"android",
+			"2":"iphone",
+			"4":"test"
+		},
+	"equipEnum":
+		{
+			"Web":0,
+			"Android":1,
+			"IOS":2,
+			"wxWeb":3,
+			"test":4
+		},
+	"goodsType":
+		{
+			"roomCard":0,
+			"diamonds":1,
+			"gold":2
+		},
+	"cardType":
+		{
+			"happyRoom":0,
+			"vipRoom4":1,
+			"vipRoom8":2,
+			"vipRoom12":3
+		},
+	"goods": {
+	"0": {"desc": "欢乐房卡（1局）","type": 0, "roundNum":1},
+	"1": {"desc": "4局","type": 0, "roundNum": 4},  
+	"2": {"desc": "8局", "type": 0, "roundNum": 8},
+	"3": {"desc": "12局", "type": 0, "roundNum": 12},
+	"4": {"desc": "6钻石", "type": 1, "money": 6, "num": 6, "text":6},
+	"5": {"desc": "19钻石", "type": 1, "money": 18, "num": 19, "text":19},
+	"6": {"desc": "32钻石", "type": 1, "money": 30, "num": 32, "text":32},
+	"7": {"desc": "65钻石", "type": 1, "money": 60, "num": 65, "text":65},
+	"8": {"desc": "100钻石", "type": 1, "money": 93, "num": 100, "text":100},
+	"9": {"desc": "200钻石", "type": 1, "money": 178, "num": 200, "text":200},
+	"10": {"desc": "12000金币", "type": 2, "money": 1, "num": 12000, "text":"1.2万"},
+	"11": {"desc": "25000金币", "type": 2, "money": 2, "num": 25000, "text":"2.5万"},
+	"12": {"desc": "60000金币", "type": 2, "money": 5, "num": 60000, "text":"6万"},
+	"13": {"desc": "28万金币", "type": 2, "money": 20, "num": 280000, "text":"28万"},
+	"14": {"desc": "50万金币", "type": 2, "money": 65, "num": 500000, "text":"50万"},
+	"15": {"desc": "150万金币", "type": 2, "money": 100, "num": 1500000, "text":"150万"}},
+	"Recommend":
+		{
+			"Gold":10,
+			"Card":4
+		},
+	
+	"gamePlayName":{
+				"3":"传统胡法 ",
+				"4":"夹胡 ",
+				"5":"传统胡法 ",
+				"6":"夹胡 ",
+				"7":"传统胡法 ",
+				"401":"红中当宝 ",
+				"402":"红中算色 ",
+				"403":"刮大风 ",
+				"404":"对宝 ",
+				"405":"边胡 ",
+				"406":"单吊算夹 ",
+				"407":"庄家翻倍 ",
+				"408":"一炮多响 ",
+				"601":"对宝 ",
+				"602":"刮大风 ",
+				"603":"大扣 ",
+				"604":"下蛋 ",
+				"605":"红中满天飞 ",
+				"606":"庄家翻倍 ",
+				"607":"一炮多响 ",
+				"705":"红中满天飞 "},
+	"haerbin": {
+				"chuantong":3,
+				"jiahu":4,
+				
+				"hongzhongbao": 401, 
+				"hongzhong": 402,
+				"dafeng": 403,
+				"duibao": 404,
+				"bianhu": 405,
+				"dandiao": 406,
+				"zhuang": 407,
+				"duoxiang": 408},
+    "mudanjiang": {
+				"chuantong":5,
+				"jiahu":6,
+				
+				"duibao": 601,  
+				"dafeng": 602,  
+				"dakou": 603, 
+				"xiadan": 604, 
+				"hongzhong": 605, 
+				"zhuang": 606,
+				"duoxiang": 607 },
+	"happyRoom": {
+				"id":7,
+				"zimo": 701,  
+				"dianpao": 702,  
+				"bao":703,
+				"baozhongbao": 704, 
+				"hongzhong": 705 },
+				
+	"hupaiType":{
+				"0":"自摸",
+				"1":"胡牌",
+				"2":"听牌",
+				"3":"听牌 点炮",
+				"4":"未听牌",
+				"5":"未听牌 点炮",
+				"6":"摸宝",
+				"7":"宝中宝",
+				"8":"刮大风"
+				},
+				
+	"prize":
+		{
+			"0": {"desc": "200金币",  "type": "ma", "title": "200" },  
+			"1": {"desc": "2000金币",  "type": "ma", "title": "2000" },  
+			"2": {"desc": "4000金币",  "type": "ma", "title": "4000" },
+			"3": {"desc": "8800金币",  "type": "ma", "title": "8800" },
+			"4": {"desc": "28000金币", "type": "ma", "title": "28000" },
+			"5": {"desc": "66000金币",  "type": "ma", "title": "66000" },
+			"6": {"desc": "88000金币",   "type": "ma", "title": "88000" },
+			"7": {"desc": "10钻",  "type": "diamonds", "title": "10钻" },
+			"8": {"desc": "60钻", "type": "diamonds", "title": "60钻" }
+		},
+	"nPos":
+		{
+			"BottoPos":0,
+			"LeftPos":1,
+			"TopPos": 2,
+			"RightPos":3
+		},
+	"poolType":
+		{
+			"agang":0,
+			"chi":1,
+			"mgang":2,
+			"peng":3,
+			"pai":4,
+			"put":5,
+			"tan":6
+		},
+	"soundType":
+		{
+			"chi":"chi",
+			"gang":"gang",
+			"peng":"peng",
+			"hu":"hu",
+			"zimo":"zimo",
+			"loss":"loss",
+			"win":"win",
+			"putPaiDown":"putPaiDown",
+			"gameStar":"gameStar",
+			"ting":"ting",
+			"clock":"clock"
+		},
+	"canPaiAnmiType":
+		{
+			"chi":"chi",
+			"peng":"peng",
+			"gang":"gang",
+			"ting":"ting",
+			"hu":"hu"
+		},
+	"PutState":
+		{
+			"putpai":0,
+			"moting":1,
+			"qiangting":2
+		},
+	"LoginView":
+		{
+			"m_logo":{"width": 383, "height": 183, "left": 382, "top": 56}
+		},
+	"GamehallView":
+		{},
+	"GuoType":
+		{
+			"ziMo":1,
+			"moTing":2,
+			"moGang":3,
+			"canPai":4
+		},
+	"GangType":
+		{
+			"AnGang":0,
+			"MoGang":1,
+			"MiGang":2
+		},
+	"lastHuType":
+		{
+			"bao":1,
+			"feng":2
+		},
+	"gameState":
+		{
+			"readyed":0,
+			"playing":1,
+			"over":2,
+			"join":3
+		},
+	"roomState":
+		{
+			"readyed":0,
+			"playing":1,
+			"over":2
+		},
+	"nErrorCode":{
+		"success":0,
+		"userinvaild":1,
+		"pwderror":2,
+		"moneyerror":3 ,
+		"notrookie": 4,
+		"roominvalid": 5,
+		"roomfull": 6,
+		"userrepeated": 7,
+		"autherror": 8,
+		"bossleft": 9,
+		"userlogined": 10,
+		"roomstateerror": 11,
+		"notroomowner": 12,
+		"alreadyinroom": 13,
+		"notinroom": 14,
+		"readyed": 15},
+	"aiInfo":
+	{
+		"备注":{"desc":"未知","gender":"0"},
+		"0":{"desc":"男","gender":"1","nick":"心中日月"},
+		"1":{"desc":"女","gender":"2","nick":"宝妈"},
+		"2":{"desc":"男","gender":"1","nick":"拾光"},
+		"3":{"desc":"女","gender":"2","nick":"单紫言"},
+		"4":{"desc":"男","gender":"1","nick":"高小憨"},
+		"5":{"desc":"女","gender":"2","nick":"踏雪寻花"},
+		"6":{"desc":"男","gender":"1","nick":"看山似水"},
+		"7":{"desc":"女","gender":"2","nick":"祝雪"},
+		"8":{"desc":"男","gender":"1","nick":"老范"},
+		"9":{"desc":"女","gender":"2","nick":"香雪海"},
+		"10":{"desc":"女","gender":"2","nick":"咕噜天使"},
+		"11":{"desc":"男","gender":"1","nick":"陆胜朝"},
+		"12":{"desc":"男","gender":"1","nick":"段东"},
+		"13":{"desc":"女","gender":"2","nick":"小雪"},
+		"14":{"desc":"男","gender":"1","nick":"John"},
+		"15":{"desc":"女","gender":"2","nick":"轻轻的听"},
+		"16":{"desc":"男","gender":"1","nick":"辉亮"},
+		"17":{"desc":"女","gender":"2","nick":"王老师"},
+		"18":{"desc":"男","gender":"1","nick":"断灭阐提"},
+		"19":{"desc":"女","gender":"2","nick":"朱布衣"},
+		"20":{"desc":"男","gender":"1","nick":"邓胖子"},
+		"21":{"desc":"女","gender":"2","nick":"梅"},
+		"22":{"desc":"女","gender":"2","nick":"不一样的天空"},
+		"23":{"desc":"男","gender":"1","nick":"齐了咔嚓"}
+		
+	},
+	"rookieAward":
+		{
+			"0":"<div style='margin:0; padding:0;font-size: 24px; align: center; color:#8a4622;font-family: SimHei;line-height:60px;width: 500px;'><span style='font-size: 36px;'>分享成功</span><br><span>恭喜你，获得朋友分享2&nbsp;</span><img src='gameHall/img_shareZuan.png' width='30' height='28'/><span>&nbsp;奖励</span> </div>",
+			"1":"<div style='margin:0; padding:0;font-size: 24px; align: center; color:#8a4622;font-family: SimHei;line-height:60px;width: 500px;'><span style='font-size: 36px;'>恭喜获得</span><br><span>恭喜你获得刮刮乐二等奖，5&nbsp;</span><img src='gameHall/img_shareZuan.png' width='30' height='28' /><span>&nbsp;奖励</span> </div>",
+			"2":"<div style='margin:0; padding:0;font-size: 24px; align: center; color:#8a4622;font-family: SimHei;line-height:60px;width: 500px;'><span style='font-size: 36px;'>恭喜获得</span><br><span>恭喜你获得刮刮乐一等奖，10&nbsp;</span><img src='gameHall/img_shareZuan.png' width='30' height='28' /><span>&nbsp;奖励</span> </div>",
+			"3":"<div style='margin:0; padding:0;font-size: 24px; align: center; color:#8a4622;font-family: SimHei;line-height:40px;width: 500px;'><span style='font-size: 36px;'>恭喜获得</span><br><span>恭喜你获得刮刮乐三等奖，0.5元&nbsp;</span><img src='gameHall/img_hongbao.png' width='24' height='28' /><br><span>截图给客服领取现金红包，微信号：THMJ08</span> </div>",
+			"shareSuccess":"<div style='margin:0; padding:0;font-size: 24px; align: center; color:#8a4622;font-family: SimHei;line-height:60px;width: 500px;'><span style='font-size: 36px;'>分享成功</span><br><span>恭喜你获得分享3&nbsp;</span><img src='gameHall/img_shareZuan.png' width='30' height='28' /><span>&nbsp;奖励</span> </div>"
+		},
+	"mail":
+	{
+		"1":{"title":"分享成功","state":"分享成功"},
+		"2":{"title":"下级代理充值奖励","state":"返利成功"},
+		"3":{"title":"幸运大转盘奖励","state":"抽取成功"},
+		"4":{"title":"刮刮乐奖励","state":"领取成功"},
+		"5":{"title":"获得好友分享奖励","state":"领取成功"}
+	},
+	"mailContent":
+	{
+		"2":"2个钻石",
+		"3":"3个钻石",
+		"5":"5个钻石",
+		"10":"10个钻石",
+		"2:2000":"2000金币",
+		"2:4000":"4000金币"
+	},
+	"cacheURL":"/sdcard/com.tianhu.majiang/test.png"
+}
